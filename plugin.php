@@ -23,17 +23,7 @@ class Tribe__Extension__Make_Organizer_Name_Link_to_Organizer_Website {
      * @var array Plugins are listed in 'main class' => 'minimum version #' format
      */
     public $plugins_required = array(
-        'Tribe__Tickets__Main'                     => '4.2',
-        'Tribe__Events__Main'                      => '4.2',
-        'Tribe__Tickets_Plus__Main'                => '4.2',
-        'Tribe__Events__Pro__Main'                 => '4.2',
-        'Tribe__Events__Community__Main'           => '4.2',
-        'Tribe__Events__Community__Tickets__Main'  => '4.2',
-        'Tribe__Events__Filterbar__View'           => '4.2',
-        'Tribe__Events__Facebook__Importer'        => '4.2',
-        'Tribe__Events__Ical_Importer__Main'       => null,
-        'Tribe__Events__Tickets__Eventbrite__Main' => null,
-        'Tribe_APM' => null,
+        'Tribe__Events__Main' => '4.2'
     );
 
     /**
